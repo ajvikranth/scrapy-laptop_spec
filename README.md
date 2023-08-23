@@ -1,6 +1,5 @@
 # scrapy-laptop_specs_and_reviews
 
-This Scrapy project is designed to scrape laptop specifications, their links, and their reviews from Flipkart an Indian E-commerse website.
 This repository contains a Scrapy project for scraping laptop links, specifications, and reviews from the Flipkart ecommerce website. The scraped data is then stored in a SQLite database. This project runs in Conda environment.
 
 ## Project Structure
